@@ -16,7 +16,7 @@
  #  :camera_flash: Screenshots do Projeto
  <br> <br> 
  ![Imagem do projeto](C:\xampp\htdocs\www\relogio-analogico\img\img-relogio.jpg)
-<br>
+<br> <br>
 ## :woman: Autora:  Luciane Viana
 <br>
 ### :link: LinkedIn: https://www.linkedin.com/in/luciane-viana/na
